@@ -12,12 +12,12 @@ const Wrapper = styled.div`
     padding:20px;
     gap: 15px;
     border: 3px solid black;
-    border-radius; 25px;
+    border-radius: 25px;
     box-shadow: 10px 10px gray;
 `;
 
 const Description = styled.div`
-    width
+    width: 100%;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
